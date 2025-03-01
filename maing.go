@@ -7,3 +7,7 @@ func main() {
 	fmt.Println("2")
 	fmt.Println("3")
 }
+
+func dev() {
+	fmt.Println("dev")
+}
