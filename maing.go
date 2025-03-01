@@ -15,7 +15,3 @@ func dev() {
 func pickCode() {
 	fmt.Println("pickCode")
 }
-
-func pickCode() {
-	fmt.Println("pickCode")
-}
