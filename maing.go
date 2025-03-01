@@ -9,7 +9,7 @@ func main() {
 }
 
 func dev() {
-	fmt.Println("dev")
+	fmt.Println("uat")
 }
 
 func pickCode() {
