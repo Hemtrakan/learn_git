@@ -11,3 +11,7 @@ func main() {
 func dev() {
 	fmt.Println("dev")
 }
+
+func pickCode() {
+	fmt.Println("pickCode")
+}
