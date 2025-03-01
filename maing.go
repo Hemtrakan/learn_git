@@ -9,7 +9,11 @@ func main() {
 }
 
 func dev() {
-	fmt.Println("dev")
+	fmt.Println("prod")
+}
+
+func pickCode() {
+	fmt.Println("pickCode")
 }
 
 func pickCode() {
