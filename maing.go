@@ -17,5 +17,5 @@ func pickCode() {
 }
 
 func fixcode() {
-
+	fmt.Println("00021321321")
 }
