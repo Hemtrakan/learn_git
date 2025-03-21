@@ -10,8 +10,12 @@ func main() {
 
 func dev() {
 	fmt.Println("prod")
-	}
+}
 
 func pickCode() {
 	fmt.Println("pickCode")
+}
+
+func fixcode() {
+
 }
