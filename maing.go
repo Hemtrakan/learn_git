@@ -19,3 +19,7 @@ func pickCode() {
 func fixcode() {
 
 }
+
+func test001() {
+	fmt.Println("11")
+}
